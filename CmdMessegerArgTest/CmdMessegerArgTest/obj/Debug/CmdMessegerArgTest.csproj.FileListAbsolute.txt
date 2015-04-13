@@ -1,0 +1,51 @@
+c:\users\sondre\documents\visual studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\CmdMessegerArgTest.exe.config
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\obj\Debug\CmdMessegerArgTest.csprojResolveAssemblyReference.cache
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\obj\Debug\CmdMessegerArgTest.ChartForm.resources
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\obj\Debug\CmdMessegerArgTest.Properties.Resources.resources
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\obj\Debug\CmdMessegerArgTest.csproj.GenerateResource.Cache
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\CmdMessegerArgTest.exe
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\CmdMessegerArgTest.pdb
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\CommandMessenger.dll
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\ZedGraph.dll
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\ZedGraph.Web.dll
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\CommandMessenger.pdb
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\ZedGraph.xml
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\ZedGraph.Web.xml
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\obj\Debug\CmdMessegerArgTest.exe
+C:\Users\Sondre\Documents\Visual Studio 2013\Projects\CmdMessegerArgTest\CmdMessegerArgTest\obj\Debug\CmdMessegerArgTest.pdb
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\CmdMessegerArgTest.exe.config
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\obj\Debug\CmdMessegerArgTest.exe
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\obj\Debug\CmdMessegerArgTest.pdb
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\CmdMessegerArgTest.exe
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\CmdMessegerArgTest.pdb
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\CommandMessenger.pdb
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\ZedGraph.xml
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\ZedGraph.Web.xml
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\obj\Debug\CmdMessegerArgTest.csprojResolveAssemblyReference.cache
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\obj\Debug\CmdMessegerArgTest.ChartForm.resources
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\obj\Debug\CmdMessegerArgTest.Properties.Resources.resources
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\obj\Debug\CmdMessegerArgTest.csproj.GenerateResource.Cache
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\obj\Debug\Interop.MMC20.dll
+C:\Users\Sondre\Desktop\CmdMessegerArgTest\CmdMessegerArgTest\obj\Debug\CmdMessegerArgTest.csproj.ResolveComReference.cache
